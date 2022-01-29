@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">User List</string>
+    <string name="str_error_type_name_and_number">Please insert a name</string>
+    <string name="str_error_type_number">Please insert a number</string>
+    <string name="str_add_user">Add User</string>
+    <string name="str_edit_user">Edit User</string>
+    <string name="str_msg_users_deleted">All Users deleted</string>
+    <string name="str_users_not_saved">User not saved</string>
+    <string name="str_msg_users_updated">User updated</string>
+    <string name="str_msg_users_cant_update">User can\'t be updated</string>
+    <string name="str_msg_users_saved">User saved</string>
+    <string name="str_msg_user_deleted">User deleted</string>
+    <string name="str_add_user_details">Add User Details</string>
+    <string name="str_enter_user_name">Enter user name</string>
+    <string name="str_submit">Submit</string>
+    <string name="str_users_not_found">Users not found</string>
+    <string name="str_enter_number">Enter number</string>
+</resources>
